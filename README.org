@@ -1,0 +1,7 @@
+* Twitter Disaster Prediction
+
+
+This competition involves building a model to classify tweets as describing real disasters or not.
+The dataset contains 10,000 hand-labeled tweets, with each tweet labeled as disaster-related (1) or not (0).
+The objective is to predict the labels for unseen tweets.
+Model performance will be evaluated using the F1 score, which balances precision and recall.
